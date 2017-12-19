@@ -478,6 +478,8 @@ button.btn-secondary, input[type="button"].btn-secondary, input[type="submit"].b
   
   .technology {
     margin-bottom: 30px;
+  }
+  .technology .container {
     padding-left: 40px;
     padding-right: 40px;
   }
