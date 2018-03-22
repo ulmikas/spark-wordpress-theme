@@ -23,6 +23,16 @@
 </head>
 
 <body <?php body_class(); ?>>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1936808-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1936808-12');
+</script>
+
 <div id="page" class="site">
 	<header id="masthead">
 		<?php the_custom_logo(); ?>

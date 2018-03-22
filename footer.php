@@ -35,11 +35,7 @@
 			<?php endif; ?>
 			
 			<div class="site-info">
-				<div class="copyright">© 2017 DeepSpar Data Recovery Systems. All rights reserved. Terms and Privacy.</div>
-				<div class="site-info__text">
-					<small>The CES Innovation Awards are based upon descriptive materials submitted to the judges.</small><br>
-					<small>CEA did not verify the accuracy of any submission or of any claims made and did not test the item to which the award was given.</small>
-				</div>
+				<div class="copyright">© 2017 DeepSpar Data Recovery Systems. All rights reserved. <a target="_blank" href="http://sparkdata.in/terms">Terms and Privacy.</a></div>
 			</div>
 		</footer><!-- #colophon -->
 	</div><!-- .site-content-contain -->
